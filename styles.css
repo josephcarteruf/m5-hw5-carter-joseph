@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-image: url(p6.png);
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+    header {
+    background-color: skyblue;
+    padding: 40px;
+    border: 5px dashed black;
+}
+
+h1 {
+    width: 50%;
+    display: inline-block;
+}
+
+nav {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
+
+nav a {
+    color: ghostwhite;
+    margin: 0 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+main {
+    width: 75%;
+    display: inline-block;
+    background-color: skyblue;
+    padding: 25px;
+}
+
+aside {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: skyblue;
+    padding: 10px;
+}
+
+p {
+    margin: 10px 0;
+    line-height: 150%;
+}
+
+img {
+    float: left;
+    margin: 0 20px 02px 0;
+}
+
+footer {
+    text-align: center;
+    background-color: skyblue;
+    border: 2px dashed black;
+    padding: 10px;
+}
