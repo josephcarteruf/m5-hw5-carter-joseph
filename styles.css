@@ -40,14 +40,14 @@ nav a {
 }
 
 main {
-    width: 75%;
+    width: 65%;
     display: inline-block;
     background-color: skyblue;
     padding: 25px;
 }
 
 aside {
-    width: 25%;
+    width: 20%;
     display: inline-block;
     vertical-align: top;
     background-color: skyblue;
